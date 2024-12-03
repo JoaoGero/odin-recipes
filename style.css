@@ -9,7 +9,6 @@ h2 {
 
 .lista-main {
     text-align: center;
-    background-color: #fab791;
     color: orangered;
     font-size: 20px;
 }
@@ -21,6 +20,14 @@ img {
 }
 
 ul {
-    text-align: center;
-    list-style-type: none;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 5px;
+}
+
+.lista {
+    display: block;
+    margin: 10px;
+    background-color: rgb(248, 166, 136);
+    font-size: 30px;
 }
